@@ -5,10 +5,10 @@ It uses Unicorn Engine for ARM/Thumb emulation and AFL++ for coverage-guided fuz
 
 Files:
 
--fuzzer (compiled harness)
--fuzzer.cpp (source code)
--modem.zip (contains modem.bin)
--in.zip (AFL seed corpus)
+- fuzzer (compiled harness)
+- fuzzer.cpp (source code)
+- modem.zip (contains modem.bin)
+- in.zip (AFL seed corpus)
 
 Requirements:
 - AFL++
